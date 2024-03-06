@@ -1,0 +1,31 @@
+/* app.css */
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  color: #333;
+}
+
+.card {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+.logo {
+  width: 100px;
+  height: 100px;
+  margin-right: 20px;
+}
+
+.react {
+  width: 150px;
+}
+
+.read-the-docs {
+  margin-top: 20px;
+}
